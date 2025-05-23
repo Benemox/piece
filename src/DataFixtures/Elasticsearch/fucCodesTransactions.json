@@ -1,0 +1,36 @@
+{
+  "index": "fuc-codes",
+  "type": "App\\Commerces\\Domain\\Model\\Commerce",
+  "data": [
+    {
+      "field": {
+        "name": "IKAROS                                  ",
+        "province": "MALAGA              ",
+        "via": "C.  ",
+        "cif_nif": "25108918W   ",
+        "type": "00",
+        "sector_int": "5812",
+        "csb": "0075",
+        "sector_act": "5812",
+        "address": "AV BENALMADENA 27                                 ",
+        "code": "061769964",
+        "area": "MALAGA                                            "
+      }
+    },
+    {
+      "field": {
+        "name": "NATURAL HNOS TORRES VALEN               ",
+        "cif_nif": "B66998824   ",
+        "address": "AYUNTAMIENTO                                      ",
+        "type": "00",
+        "csb": "2100",
+        "code": "349926345",
+        "area": "VALENCIA                                          ",
+        "province": "VALENCIA            ",
+        "via": "PL. ",
+        "sector_act": "5811",
+        "sector_int": "5812"
+      }
+    }
+  ]
+}

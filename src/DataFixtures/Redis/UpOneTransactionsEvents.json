@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "type": "account_credit",
+      "data": {
+        "transaction_id": "e7a8891460f4402ca121b747739b25fb",
+        "datetime": "2025-02-19T10:12:32+01:00",
+        "account_id": "843578020000263973",
+        "account_name": "001-Comida",
+        "product_id": {
+          "value": "01939238-a72b-71a4-a4c2-923765ec1ca3"
+        },
+        "product_name": "General",
+        "product_code": "UP0201A28203537LWCRETSCHMAR001",
+        "cif": "B90572694",
+        "as400": "12715",
+        "ceco": null,
+        "financial_impact_type": "credit",
+        "amount": 1000,
+        "customer_id": "943578020000378118",
+        "customer_name": "VICTOR",
+        "customer_surname": "ARANDA MALDONADO",
+        "organization_id": "0191eb0a-6e21-74fe-9109-b987db496cd2",
+        "organization_name": "L.W. Cretschmar Española, S.A.",
+        "notification_type": "account_credit"
+      }
+    },
+    {
+      "type": "account_debit",
+      "data": {
+        "transaction_id": "b101be564258432da212a14b01d57e0e",
+        "datetime": "2025-02-14T12:52:09+01:00",
+        "account_id": "843578020000131725",
+        "account_name": "001-Comida",
+        "product_id": {
+          "value": "018fc8b1-3795-7b19-a65f-dbfd04e1c3dc"
+        },
+        "product_name": "Up Spain General",
+        "product_code": "66583DBA2726F",
+        "cif": "A78887049",
+        "as400": "12735",
+        "ceco": null,
+        "financial_impact_type": "debit",
+        "amount": 11000,
+        "customer_id": "943578020000252743",
+        "customer_name": "JOSE LUIS",
+        "customer_surname": "RUIZ ORTIZ",
+        "organization_id": "018f1a37-aba0-77c4-9723-4ba40177eb0e",
+        "organization_name": "Chèque Déjeuner España, S.A.U.",
+        "notification_type": "account_debit"
+      }
+    }
+  ]
+}

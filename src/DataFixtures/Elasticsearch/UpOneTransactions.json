@@ -1,0 +1,29 @@
+{
+  "index": "upone_transactions_app_local",
+  "type": "App\\Transactions\\Domain\\Model\\UpOneTransaction",
+  "data": [
+    {
+      "transaction_id": "311983",
+      "datetime": "2024-11-25T12:45:26+01:00",
+      "account_id": "843578020000249162",
+      "account_name": "001-Comida",
+      "product_id": {
+        "value": "01929083-c56c-71ae-82b8-df75fe7cafe1"
+      },
+      "product_name": "Beneficio Social 02",
+      "product_code": "UP02INFORMADYBSAU001",
+      "cif": "A80192727",
+      "as400": "70.028",
+      "ceco": null,
+      "financial_impact_type": "credit",
+      "amount": 1100,
+      "customer_id": "943578020000372509",
+      "customer_name": "Xavier",
+      "customer_surname": "Bonilla Sanchez",
+      "organization_id": "01922423-d470-71a7-9d4b-d600fab51c2b",
+      "organization_name": "INFORMA DyB S.A.U",
+      "notification_type": "account_credit",
+      "type": "account_credit"
+    }
+  ]
+}
